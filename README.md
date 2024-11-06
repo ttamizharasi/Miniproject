@@ -1,6 +1,5 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## Online Fake Currency Detection
+Online fake currency detection using machine learning involves utilizing algorithms to identify counterfeit currency in digital transactions. By applying models like Random Forest, Decision Tree, and Logistic Regression, the system enhances detection accuracy through ensemble learning techniques.
 
 ## About
 <!--Detailed Description about the project-->
