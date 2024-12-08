@@ -40,13 +40,11 @@ This system can be integrated into financial platforms, ATMs, and online payment
 
 ## Output
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
-K-MEANS CLUSTER
+#### Output1 - K-MEANS CLUSTER
 ![image](https://github.com/user-attachments/assets/0b0773d8-062f-40c9-99a7-635e2920e95f)
 
 
-#### Output2 - Name of the output
-RANDOM FOREST
+#### Output2 - RANDOM FOREST
 ![image](https://github.com/user-attachments/assets/c305f895-278a-427f-bce5-0de840ed5ef5)
 
 Detection Accuracy: 92.5%
@@ -55,13 +53,14 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The online fake currency detection using machine learning delivers an accurate, real-time system for identifying counterfeit banknotes. It analyzes features like texture, color, and security marks, reducing human error and ensuring reliable detection. The project enhances financial security, minimizes fraud-related losses, and builds trust in transactions. Additionally, it provides a scalable foundation to adapt to evolving counterfeiting techniques.
 
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1.G. A. R. Sanchez, "A computer vision-based banknote recognition system for the blind with an accuracy of 98% on smartphone videos", J. Korea Soc. Comput. Inf., vol. 24, pp. 67-72, Jun. 2019.
-2. [5]T. D. Pham, C. Park, D. T. Nguyen, G. Batchuluun and K. R. Park, "Deep learning-based fake-banknote detection for the visually impaired people using visible-light images captured by smartphone cameras", IEEE Access,  vol. 8, pp. 63144-63161, Apr. 2020.
+1. G. A. R. Sanchez, "A computer vision-based banknote recognition system for the blind with an accuracy of 98% on smartphone videos", J. Korea Soc. Comput. Inf., vol. 24, pp. 67-72, Jun. 2019.
+
+2. T. D. Pham, C. Park, D. T. Nguyen, G. Batchuluun and K. R. Park, "Deep learning-based fake-banknote detection for the visually impaired people using visible-light images captured by smartphone cameras", IEEE Access,  vol. 8, pp. 63144-63161, Apr. 2020.
 
 
 
