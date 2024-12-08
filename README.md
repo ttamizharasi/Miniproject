@@ -3,7 +3,9 @@ Online fake currency detection using machine learning involves utilizing algorit
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Online fake currency detection using machine learning is an advanced solution designed to identify counterfeit banknotes efficiently and accurately. By leveraging machine learning algorithms, this system analyzes features such as texture, color, watermark, holograms, and serial numbers in currency images. It automates the detection process, reducing human error and enhancing reliability.
+The solution involves key steps such as image preprocessing, feature extraction, and classification using algorithms like Decision Trees, Random Forest, Support Vector Machines (SVM), and Logistic Regression. The model is trained on a dataset containing labeled images of genuine and counterfeit banknotes, enabling it to learn and identify patterns that differentiate between the two.
+This system can be integrated into financial platforms, ATMs, and online payment gateways, ensuring secure transactions and combating fraud. It also offers scalability and adaptability, as the model can be updated to detect evolving counterfeit techniques, making it a robust tool for modern financial security.
 
 ## Features
 <!--List the features of the project as shown below-->
