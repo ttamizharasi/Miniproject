@@ -9,15 +9,15 @@ This system can be integrated into financial platforms, ATMs, and online payment
 
 ## Features
 <!--List the features of the project as shown below-->
-- Automated Currency Validation
+- Automated Currency Validation:
     Automatically identifies counterfeit currency based on key features like texture, watermark, and serial numbers.
-- Advanced Feature Extraction
+- Advanced Feature Extraction:
     Utilizes techniques like image processing to extract and analyze texture, color patterns, and holograms for improved accuracy.
-- High Detection Accuracy
+- High Detection Accuracy:
     Employs machine learning algorithms such as Decision Trees, Random Forest, and SVM for precise classification.
-- Scalability and Flexibility
+- Scalability and Flexibility:
     Easily adaptable to detect various currency denominations and evolving counterfeit techniques.
-- Real-time Detection
+- Real-time Detection:
     Processes input data rapidly to provide real-time results for online and offline transactions.
 
 ## Requirements
@@ -33,7 +33,7 @@ This system can be integrated into financial platforms, ATMs, and online payment
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![image](https://github.com/user-attachments/assets/db58eabc-2f52-40a1-8309-6d9d1a0c46f7)
 
 
 ## Output
