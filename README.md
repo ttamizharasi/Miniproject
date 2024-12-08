@@ -9,11 +9,16 @@ This system can be integrated into financial platforms, ATMs, and online payment
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Automated Currency Validation
+    Automatically identifies counterfeit currency based on key features like texture, watermark, and serial numbers.
+- Advanced Feature Extraction
+    Utilizes techniques like image processing to extract and analyze texture, color patterns, and holograms for improved accuracy.
+- High Detection Accuracy
+    Employs machine learning algorithms such as Decision Trees, Random Forest, and SVM for precise classification.
+- Scalability and Flexibility
+    Easily adaptable to detect various currency denominations and evolving counterfeit techniques.
+- Real-time Detection
+    Processes input data rapidly to provide real-time results for online and offline transactions.
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
