@@ -22,13 +22,15 @@ This system can be integrated into financial platforms, ATMs, and online payment
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+* Currency Scanning/Uploading: Ability to scan or upload images of banknotes for analysis.
+* Preprocessing Module: Processes images for noise reduction, resizing, and feature enhancement.
+* Feature Extraction: Extracts critical features like texture, color, and security marks.
+* Classification System: Implements machine learning models (e.g., Decision Trees, Random Forest, SVM) for classification.
+* Result Display: Provides clear outcomes (genuine or counterfeit) for user review.
+* Database Integration: Stores scanned data, results, and logs for future reference.
+* Security: Safeguards transaction and user data against unauthorized access.
+* Accuracy: Maintains a high detection accuracy to minimize false positives and negatives.
+* Usability: Offers a user-friendly interface for non-technical users.
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
@@ -37,16 +39,17 @@ This system can be integrated into financial platforms, ATMs, and online payment
 
 
 ## Output
-
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
+K-MEANS CLUSTER
+![image](https://github.com/user-attachments/assets/0b0773d8-062f-40c9-99a7-635e2920e95f)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+RANDOM FOREST
+![image](https://github.com/user-attachments/assets/c305f895-278a-427f-bce5-0de840ed5ef5)
 
-Detection Accuracy: 96.7%
+Detection Accuracy: 92.5%
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
@@ -57,8 +60,8 @@ The Sign Language Detection System enhances accessibility for individuals with h
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1.G. A. R. Sanchez, "A computer vision-based banknote recognition system for the blind with an accuracy of 98% on smartphone videos", J. Korea Soc. Comput. Inf., vol. 24, pp. 67-72, Jun. 2019.
+2. [5]T. D. Pham, C. Park, D. T. Nguyen, G. Batchuluun and K. R. Park, "Deep learning-based fake-banknote detection for the visually impaired people using visible-light images captured by smartphone cameras", IEEE Access,  vol. 8, pp. 63144-63161, Apr. 2020.
 
 
 
